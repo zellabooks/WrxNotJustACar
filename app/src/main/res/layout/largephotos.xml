@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="750sp"
+    android:layout_height="match_parent">
+
+    <TableRow android:layout_width="0dp">
+
+        <ImageView
+
+            android:layout_width="wrap_content"
+            android:layout_height="500dp"
+            android:contentDescription="@string/txtDescription"
+            android:padding="15sp"
+            android:src="@drawable/racewrx" />
+
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="0dp"
+        android:layout_height="114dp">
+
+        <ImageView
+
+            android:layout_width="wrap_content"
+            android:layout_height="500dp"
+            android:contentDescription="@string/txtDescription"
+            android:padding="15sp"
+            android:src="@drawable/wrxrace" />
+
+
+    </TableRow>
+
+    <TableRow>
+
+        <ImageView
+
+            android:layout_width="wrap_content"
+            android:layout_height="500dp"
+            android:contentDescription="@string/txtDescription"
+            android:padding="15sp"
+            android:src="@drawable/dailydriverwrx" />
+
+
+    </TableRow>
+</TableLayout>

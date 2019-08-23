@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WRX not just a car</string>
+    <string name="title_item_detail">WRX not just a car</string>
+    <string name="txtOffroad">Wrx can be modded for offroading just like a jeep.</string>
+    <string name="txtRace">WRX The Subaru with a Turbo.</string>
+    <string name="txtDaily">WRX also great everyday drivers.</string>
+    <string name="txtTitle">Buying a WRX read this first.</string>
+    <string name="txtInfo">The WRX needs the timing belt changed every 100k miles. The engines over time leak a little oil check your oil with every gas fill. Make sure you have the coolant where is should be. Some stock engines have known to have head gasket issues if you let it over heat. Drive careful but have fun.</string>
+    <string name="txtDescription">WRX Image</string>
+</resources>
